@@ -2,7 +2,7 @@
 Use IFS to produce Barnsley Fern
 
 # note
-the source of matlab in the ./matlab
+the source of matlab in the ./matlab \n
 the source of matlab in the ./python
 
 # the transform style of IFS is Y=K*x+b
