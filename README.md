@@ -23,4 +23,4 @@ possible = [0.01,0.85,0.07,0.07];
 
 # note
 the source of matlab in the ./matlab  
-the source of matlab in the ./python  
+the source of python in the ./python  
